@@ -1,0 +1,22 @@
+{
+  "name": "generator-soro",
+  "version": "0.0.1",
+  "description": "Yeoman generator for static site generator using React, css-modules, post-css.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shgtkshruch/generator-soro.git"
+  },
+  "keywords": [],
+  "author": "shgtkshruch <shgtk.shruch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shgtkshruch/generator-soro/issues"
+  },
+  "homepage": "https://github.com/shgtkshruch/generator-soro#readme"
+}
